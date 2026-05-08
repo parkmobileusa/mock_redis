@@ -1,3 +1,21 @@
+<!-- gh-fixer:archive-notice:start -->
+> **Archived by gh-fixer**
+>
+> This repository has been archived because no team ownership could be
+> determined for it. The gh-fixer tool exhausted every ownership-detection
+> strategy (recent commits, GitHub team permissions, org defaults) and
+> found no signal to attribute this repo to a team, so it could not open
+> a PR adding `catalog-info.yaml` for Backstage.
+>
+> Tracking ticket: [SEC-1686](https://easypark.jira.com/browse/SEC-1686)
+> Org-wide announcement: [#product-and-technology Slack post](https://arrive.slack.com/archives/C036UDZ209K/p1778171244682279)
+> Archived at: 2026-05-08 20:25:56 UTC
+>
+> If this repo should not be archived, identify its owning team, restore
+> it via the GitHub Settings page, and add a `catalog-info.yaml` with the
+> correct `spec.owner`.
+<!-- gh-fixer:archive-notice:end -->
+
 # MockRedis
 
 [![Gem Version](https://badge.fury.io/rb/mock_redis.svg)](http://badge.fury.io/rb/mock_redis)
